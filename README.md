@@ -11,7 +11,7 @@
 
 * One recent paper, named [3-self-attention Generative ...](https://github.com/jianguoz/Text-Generation/blob/master/3-Self-Attention%20Generative%20Adversarial%20Networks.pdf), focus on using attention mechanism to generate images with fine-grained details, which is quite helpful for text generation. 
 
-* A classical paper of Facebook, named [4-ICLR-16-Sequence Level training with...](https://github.com/jianguoz/Text-Generation/blob/master/ICLR-16-Sequence%20Level%20training%20with%20Recurrent%20Neural%20Networks.pdf), for sequence level generation
+* A classical paper of Facebook, named [4-ICLR-16-Sequence Level training with...](https://github.com/jianguoz/Text-Generation/blob/master/4-Sequence%20Level%20Training%20with%20Recurrent%20Neural%20Networks.pdf), for sequence level generation
 
 
 ### [Alibaba-1b](https://github.com/jianguoz/Text-Generation/blob/master/2-Alibaba-18-Automatic%20Generation%20of%20Chinese%20Short%20Product%20Titles%20for%20Mobile%20Display.pdf)
