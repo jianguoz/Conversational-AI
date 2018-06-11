@@ -1,8 +1,9 @@
 # Text-Generation
 
 ## Papers related to Text generation. 
+## Jianguo Zhang, updated on June 11, 2018
 
-### Note: I write this Readme file in mixed Chinese and English, If needed, I will add separate English and/or Chinese version. 
+### Note: I write this Readme file in mixed English and Chinese, If needed, I will add separate English and/or Chinese version. 
 
 * One [technical blog](https://zhuanlan.zhihu.com/p/33956907) of NLG on Taobao Recommendation gives some instructions on tackling multi-source and noisy data.  
 
