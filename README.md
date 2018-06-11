@@ -1,7 +1,7 @@
 # Text-Generation
 
 ## Papers related to Text generation. 
-### - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Jianguo Zhang, updated on June 11, 2018`.
+###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Jianguo Zhang, updated on June 11, 2018`.
 
 ### Note: I write this Readme file in mixed English and Chinese, If needed, I will add separate English and/or Chinese version. 
 
