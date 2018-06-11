@@ -12,7 +12,7 @@
 * A classical paper of Facebook, named [ICLR-16-Sequence Level training with...](https://github.com/jianguoz/Text-Generation/blob/master/ICLR-16-Sequence%20Level%20training%20with%20Recurrent%20Neural%20Networks.pdf), for sequence level generation
 
 
-### [Alibaba-1b](https://github.com/jianguoz/Text-Generation/blob/master/Alibaba-18-Automatic%20Generation%20of%20Chinese%20Short%20Product%20Titles%20for%20Mobile%20Display.pdf)
+### [Alibaba-1b](https://github.com/jianguoz/Text-Generation/blob/master/2-Alibaba-18-Automatic%20Generation%20of%20Chinese%20Short%20Product%20Titles%20for%20Mobile%20Display.pdf)
 
 **Summary:** 这篇文章用了RNN结构，主要贡献是将不同的features (e.g., content features, attention features, TF-IDF features, NER features, where NER is used to label entities like color, style, etc.) combine 到了一起， 前两种features利用了模型的深度 (deep) 信息, 后两种features直接对输入数据进行处理, 利用的宽度 (wide) 信息, 所以 模型特点 deep & wide. 另外一个贡献是作者 <打算> 开源 youhaohuo short text summarization dataset. Moreover, this paper treats short title summarization as an extractive summarization task, 另外一种常见的做法是将短标题生成任务当作abstractive summarization, which has the ability to generate text beyond the original input text, in most cases, can produce more coherent and concise summaries. 但是对于淘宝数据集抽取标题来说, 我们没有必要在原始标题上创造新的单词, 所以 extractive summarization task更为适合. 
 
