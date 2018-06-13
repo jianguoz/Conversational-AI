@@ -21,3 +21,7 @@
 
 **Weekness**: This paper regards the extractive summary as a sequence classification problem, and aims to maximize the likelihood of aoll word labels $Y=(y_1,...,y_n)$, given input product title $X$ and model parameters $\theta$. 这种做法容易使得相近单词很难被分开, for instance,　“皮衣”　和　“皮夹克”　可能会在生成的标题中重复出现．另外，本文在模型或者方法上的创新很小，只是把现有的方法多加了谢features换了个场景应用了一下而已． 
 
+#### [3-self-attention Generative ...](https://github.com/jianguoz/Text-Generation/blob/master/3-Self-Attention%20Generative%20Adversarial%20Networks.pdf)
+
+**Summary:** This paper uses self-attention to improve the Inception score to a large extent. Self-attention has not yet been explored in the context of GANs, and although some researchers use attention over word embedding within an input sequence in GAN, but not self-attention over internal model states. In this paper, SAGAN learns to efficiently find global, long-range dependencies within internal representations of images.  Besides, SAGAN also uses two tricks: Spectral normalization and separate learning rates (TTUR) to futher stabilize GAN training, which should be useful for further research in natural language generation. 
+
