@@ -25,3 +25,68 @@
 
 **Summary:** This paper uses self-attention to improve the Inception score to a large extent. Self-attention has not yet been explored in the context of GANs, and although some researchers use attention over word embedding within an input sequence in GAN, but not self-attention over internal model states. In this paper, SAGAN learns to efficiently find global, long-range dependencies within internal representations of images.  Besides, SAGAN also uses two tricks: Spectral normalization and separate learning rates (TTUR) to futher stabilize GAN training, which should be useful for further research in natural language generation. 
 
+
+
+## GAN
+- SeqGAN - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
+- MaliGAN - Maximum-Likelihood Augmented Discrete Generative Adversarial Networks
+- RankGAN - Adversarial ranking for language generation
+- LeakGAN - Long Text Generation via Adversarial Training with Leaked Information
+- TextGAN - Adversarial Feature Matching for Text Generation
+- GSGAN - GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution
+
+## Reinforcement Learning
+- (*****) Deep Reinforcement Learning For Sequence to Sequence Models
+> 常用RL方法应用在Seq2Seq中，包含Tensorflow写的源代码。
+- Maximum Entropy Inverse Reinforcement Learning
+- (*****) Towards Diverse Text Generation with Inverse Reinforcement Learning
+> IRL本质上和GAN等价，Maximum Entropy IRL是一种比较常用的IRL方法。
+- (*****) Reinforcement Learning and Control as Probabilistic Inference-Tutorial and Review
+> 从概率图的角度对RL进行了推导。可以考虑在图模型中加入latent variable。VAE＋maximum entropy RL进行fine-grained text generation.
+
+## Transfer Learning/Meta-Learning
+- (*****) Model-Agnostic Meta-Learning
+> 最常用的一种meta-learning方法之一。
+- A spect-augmented Adversarial Networks for Domain Adaptation
+- (*****) Natural Language to Structured Query Generation via Meta-Learning
+> 很好的将seq2seq的task定义成了meta-learning task.
+- (*****) Learning a Prior over Intent via Meta-Inverse Reinforcement Learning 
+> 当expert demonstration比较少的时候很难求reward function。考虑将其它tasks里面的信息作为prior引入进来。
+
+
+==========
+
+# (Application)
+## Dialog Generation
+- A Hierarchical Latent Structure for Variational Conversation Modeling
+- A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+- (*****) Improving Variational Encoder-Decoders in Dialogue Generation
+> 以上三篇都是利用Variational Encoder-Decoders进行open domain中的dialogue generation
+- (*****) DialogWAE- Multimodal Response Generation with Conditional Wasserstein Auto-Encoder
+> Dialog generation, VAE+GAN, 在latent variable加入了mixture Gaussion。
+- Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders
+
+## QA
+- Cross-Dataset Adaptation for Visual Question Answering
+- Joint Image Captioning and Question Answering
+- Learning Answer Embeddings for Visual Question Answering
+- Question Answering through Transfer Learning from Large Fine-grained Supervision Data
+
+## VQA (Visual Question Answering)
+- (**) Visual Question Answering- A Survey of Methods and Datasets
+> survey，快速了解VQA。
+- Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning
+- (****) Visual Question Answering as a Meta Learning Task
+> 首次将VQA这个task定义成了一个Meta Learning Task。
+
+## VisDialog (Visual Dialog)
+- (**) Visual Dialog
+> 快速了解VisDialog这个task。
+- (****) Are You Talking to Me-Reasoned Visual Dialog Generation through Adversarial Learning
+> 用GAN做visDiag
+- Two can play this Game- Visual Dialog with Discriminative Question Generation
+- Zero-Shot Dialog Generation with Cross-Domain Latent Actions
+- Adversarial Learning of Task-Oriented Neural Dialog Models
+- Best of Both Worlds- Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model
+
+
