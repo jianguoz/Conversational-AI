@@ -32,6 +32,8 @@
 
 **Note** 现在大部分用 RL 的基本上都有一个预训练， 一般情况下都是先训练一定的epochs的XENT，然后剩余的epochs全部用论文提出的方法进行训练， 这篇论文的不同之处是采用了混合训练的方式。
 
+![image1](https://github.com/jianguoz/Text-Generation/blob/master/misc/4-ICLR-16-Sequence%20Level%20training%20with.png)
+
 #### [0-short-summary-of-GAN](https://github.com/jianguoz/Text-Generation/blob/master/0-Short-Summary-GAN-Discrete-Texts.pdf)
 
 This ia a short summary of GAN for text generation, and will be updated soon.
