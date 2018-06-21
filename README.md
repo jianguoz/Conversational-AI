@@ -26,6 +26,12 @@
 
 **Summary:** This paper uses self-attention to improve the Inception score to a large extent. Self-attention has not yet been explored in the context of GANs, and although some researchers use attention over word embedding within an input sequence in GAN, but not self-attention over internal model states. In this paper, SAGAN learns to efficiently find global, long-range dependencies within internal representations of images.  Besides, SAGAN also uses two tricks: Spectral normalization and separate learning rates (TTUR) to futher stabilize GAN training, which should be useful for further research in natural language generation. 
 
+#### [4-ICLR-16-Sequence Level training with...](https://github.com/jianguoz/Text-Generation/blob/master/4-Sequence%20Level%20Training%20with%20Recurrent%20Neural%20Networks.pdf)
+
+**Summary** 这篇论文的背景写的很好，对 exposure bias, 以及 cross-entropy, beam-search, reinforce, etc., 的缺陷解释的很清楚。 This paper 提出了一个方法, dubbed MIXER, 将cross-entropy和reinforce结合到了一起， mitigate了 只用cross-entropy会出现training and inference inconsistent 以及只用 reinforce在做文本生成时search space过大的问题。具体上是 刚开始用 XENT (cross-entropy) 训练一定的epochs， 然后对剩下的epochs, 用 XENT训练前 S 步， 用 Reinforce 训练 后 （T-S）步。 其中 S=T (T represents the length of a sequence), S--， 直到只用reinforce来训练整个句子。
+
+**Note** 现在大部分用 RL 的基本上都有一个预训练， 一般情况下都是先训练一定的epochs的XENT，然后剩余的epochs全部用论文提出的方法进行训练， 这篇论文的不同之处是采用了混合训练的方式。
+
 #### [0-short-summary-of-GAN](https://github.com/jianguoz/Text-Generation/blob/master/0-Short-Summary-GAN-Discrete-Texts.pdf)
 
 This ia a short summary of GAN for text generation, and will be updated soon.
