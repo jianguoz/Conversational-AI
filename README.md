@@ -36,7 +36,7 @@
 
 #### [0-short-summary-of-GAN](https://github.com/jianguoz/Text-Generation/blob/master/0-Short-Summary-GAN-Discrete-Texts.pdf)
 
-This ia a short summary of GAN for text generation, and will be updated soon.
+This ia a short summary of GAN writen by myself for text generation, and will be updated soon.
 
 
 ## GAN
