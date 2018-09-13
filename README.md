@@ -38,6 +38,11 @@
 
 This ia a short summary of GAN writen by myself for text generation, and will be updated soon.
 
+## Tutorials
+
+### `Updated on Sep 13, 2018 by Jianguo Zhang`
+
+Three tutorials on [deep generative models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf), [conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf), and a recent tutorial on a [unified view of deep generative models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-3-A%20univied%20view%20of%20Deep%20Generative%20models%20.pdf).
 
 ## GAN
 - SeqGAN - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
