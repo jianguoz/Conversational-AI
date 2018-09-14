@@ -120,10 +120,11 @@ Three tutorials on [deep generative models](https://github.com/jianguoz/Text-Gen
 > 一个全新的QA场景，有公开数据集和代码。VQA＝Visual understanding + language understanding + answer generation. Embodied Question Answering = Visual understanding + language understanding + navigation + answer generation。
 
 ## ==> Video Question Answering
-###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
+###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 14, 2018`.
 - Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks.
 - Multi-Turn Video Question Answering via Multi-Stream Hierarchical Attention Context Network.
 > visual做的人很多，video做的人相对少一点。video和visual的区别就在于video是个temporal-spatial的，主要是encoder不同。这两篇论文我可以要到数据集。
+- TVQA-Localized, Compositional Video Question Answering
 
 ## ==> Conversational Information Retrieval
 ###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
