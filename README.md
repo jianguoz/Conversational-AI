@@ -127,7 +127,7 @@ Three tutorials on [deep generative models](https://github.com/jianguoz/Text-Gen
 
 ## ==> Conversational Information Retrieval
 ###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
-> 个人觉得dialog+information retrieval是一个很重要的应用场景，打破了传统keyword作为query的IR方式，这个在IR的影响力应该会很大。近两年sigir也有相关workshop出现，很适合www/sigir/kdd这类会议。（https://sites.google.com/view/cair-ws/cair-2018）
+> 个人觉得dialog+information retrieval是一个很重要的应用场景，打破了传统keyword作为query的IR方式，这个在IR领域的影响力应该会很大。近两年sigir也有相关workshop出现，很适合www/sigir/kdd这类会议。（https://sites.google.com/view/cair-ws/cair-2018）
 - Dialog-based Interactive Image Retrieval （NIPS2018）
 > 作者十月会公布代码／数据集
 - Improving Search through A3C Reinforcement Learning based Conversational Agent
