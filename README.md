@@ -70,7 +70,7 @@ Three tutorials on [deep generative models](https://github.com/jianguoz/Text-Gen
 - (*****) Learning a Prior over Intent via Meta-Inverse Reinforcement Learning 
 > 当expert demonstration比较少的时候很难求reward function。考虑将其它tasks里面的信息作为prior引入进来。
 
-## ==> Multi-Agent Laerning
+## ==> Multi-Agent Learning
 ###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 - Multi-agent cooperation and the emergence of (natural) language
