@@ -1,7 +1,7 @@
 # Text-Generation
 
 ## Papers related to Text generation. 
-###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=-) `updated on Sep 13, 2018`.
+###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `updated on Sep 13, 2018`.
 
 ### Note: I write this Readme file in mixed English and Chinese, If needed, I will add separate English and/or Chinese version. 
 * A [short summary](https://github.com/jianguoz/Text-Generation/blob/master/0-Short-Summary-GAN-Discrete-Texts.pdf) of GAN for discrete texts
