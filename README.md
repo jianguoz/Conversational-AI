@@ -1,6 +1,6 @@
 # Text-Generation
 
-## Papers related to Text generation. 
+## Natural Language Generation Reading Materials. 
 ###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `updated on Sep 13, 2018`.
 
 ### Note: I write this Readme file in mixed English and Chinese, If needed, I will add separate English and/or Chinese version. 
