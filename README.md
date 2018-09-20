@@ -1,6 +1,6 @@
 ## Natural Language Generation Reading Group.
 
-- If you need corresponding Slides, please drop us an email.
+- If you need corresponding slides, please drop us an email.
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `updated on Sep 19, 2018`.
 
