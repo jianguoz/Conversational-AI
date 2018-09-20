@@ -1,5 +1,3 @@
-# Text-Generation
-
 ## Natural Language Generation Reading Group.
 
 ###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `updated on Sep 13, 2018`.
@@ -13,6 +11,7 @@
 - Time-1: September 23, Sunday, 2:00 - 6:30 PM
 - Reading: [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) 
 
+## ======================================================================================================================
 ## ==> Tutorials
 
 #### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Updated on Sep 13, 2018`
