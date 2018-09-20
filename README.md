@@ -14,7 +14,7 @@
 - Time-2: September 23, Sunday, 2:00 - 6:30 PM
 - Reading-2: [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) 
 
-- Descriptions for Reading-1: 
+> Descriptions for Reading-1: 
 
 
 ## <========================================================>
