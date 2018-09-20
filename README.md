@@ -1,5 +1,7 @@
 ## Natural Language Generation Reading Group.
 
+If you need corresponding PPTs, please drop us an email.
+
 ###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `updated on Sep 19, 2018`.
 
 ## Schedule
