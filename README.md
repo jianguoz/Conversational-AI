@@ -1,15 +1,16 @@
 ## Natural Language Generation Reading Group.
 
-###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `updated on Sep 13, 2018`.
+###  ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `updated on Sep 19, 2018`.
 
 ## Schedule
+
 ### 1. Conversational AI Tutorial Review and Reinforcement Learning Review
 
 - Jianguo Zhang, Yao Wan, Ye Liu
 - Time-1: September 19, Wednesday, 4:00 - 10:30 PM
-- Reading: [Natural Language Generation: A Review](http://incompleteideas.net/book/the-book-2nd.html) 
-- Time-1: September 23, Sunday, 2:00 - 6:30 PM
-- Reading: [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) 
+- Reading-1: [Natural Language Generation: A Review](http://incompleteideas.net/book/the-book-2nd.html) 
+- Time-2: September 23, Sunday, 2:00 - 6:30 PM
+- Reading-2: [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) 
 
 ## <========================================================>
 
