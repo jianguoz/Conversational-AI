@@ -10,7 +10,7 @@
 
 - Jianguo Zhang, Yao Wan, Ye Liu
 - Time-1: September 19, Wednesday, 4:00 - 10:30 PM
-- Reading-1: [Natural Language Generation: A Review](https://www.dropbox.com/home/Materials?preview=p2447-wang.pdf) and [conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
+- Reading-1: [Natural Language Generation: A Review](https://www.dropbox.com/home/Materials?preview=p2447-wang.pdf) and [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
 - Time-2: September 23, Sunday, 2:00 - 6:30 PM
 - Reading-2: [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) 
 
