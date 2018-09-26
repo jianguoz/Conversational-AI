@@ -12,7 +12,7 @@
 - Reading-1: [Natural Language Generation: A Review](https://github.com/jianguoz/Natural-Language-Generation/blob/master/qa-review-09.20-wanyao-upload.pdf) 
 - Ye Liu, Jianguo Zhang
 - Time-2: September 23, 2018, Sunday, 2:00 - 6:30 PM
-- Reading-2: [Reinforcement Learning](http://incompleteideas.net/book/the-book-2nd.html) and [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
+- Reading-2: [Model-free Policy Gradient Method](https://github.com/jianguoz/Natural-Language-Generation/blob/master/model-free%20PB%20on%20RL%20.pdf) and [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
 
 > Descriptions for Reading-1: 
 > 在这个pdf中，我主要对基于深度强化学习的文本生成技术在当前比较火的Summarization, QA, Dialog等几个领域中应用进行了简单回顾，介绍了我觉得比较好的几篇论文，希望能给读者一些启发。
