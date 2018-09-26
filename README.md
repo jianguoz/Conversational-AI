@@ -9,7 +9,7 @@
 ### 1. Conversational AI Tutorial Review and Reinforcement Learning Review
 
 - Yao Wan
-- Time-1: September 19, 2018, Wednesday, 4:00 - 10:30 PM
+- Time-1: September 26, 2018, Wednesday, 4:00 - 10:30 PM
 - Reading-1: [Natural Language Generation: A Review](https://github.com/jianguoz/Natural-Language-Generation/blob/master/qa-review-09.20-wanyao-upload.pdf) 
 - Ye Liu, Jianguo Zhang
 - Time-2: September 23, 2018, Sunday, 2:00 - 6:30 PM
