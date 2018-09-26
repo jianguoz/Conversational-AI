@@ -43,6 +43,11 @@ Three tutorials on [deep generative models](https://github.com/jianguoz/Text-Gen
 > IRL本质上和GAN等价，Maximum Entropy IRL是一种比较常用的IRL方法。
 - (*****) Reinforcement Learning and Control as Probabilistic Inference-Tutorial and Review
 > 从概率图的角度对RL进行了推导。可以考虑在图模型中加入latent variable。VAE＋maximum entropy RL进行fine-grained text generation.
+- (*****) Policy gradient methods for reinforcement learning with function approximation
+- (*****) Proximal policy optimization algorithms
+> Change the on-policy gradient method to off-policy gradient method to improve the data efficiency. And use trust region optimization method to search for the better result.  
+- (*****) Continuous control with deep reinforcement learning
+> Use the deterministic policy instead of stochastic policy to deal with the continuous action space. The architecture of framework is Actor-Critic. 
 
 ## ==> Transfer Learning/Meta-Learning
 - (*****) Model-Agnostic Meta-Learning
