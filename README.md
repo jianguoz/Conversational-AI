@@ -11,24 +11,24 @@
 - Time-1: September 19, 2018, Wednesday, 4:00 - 10:30 PM
 - Reading-1: [Natural Language Generation: A Review](https://github.com/jianguoz/Natural-Language-Generation/blob/master/qa-review-09.20-wanyao-upload.pdf) 
 - Ye Liu
-- Time-2: September 25, 2018, tUESDAY, 2:30 - 4:30 PM
+- Time-2: September 25, 2018, Tuesday, 2:30 - 5:00 PM
 - Reading-2: [Model-free Policy Gradient Method](https://github.com/jianguoz/Natural-Language-Generation/blob/master/model-free%20PB%20on%20RL%20.pdf) 
 
 - Jianguo Zhang
-- Time-3: TBD
+- Time-3: September 28, 2018, Friday, 2:30 - 5:30 PM
 - Reading-3: [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
 
 
 > Descriptions for Reading-1: 
 
-> In this pdf, we briefly review deep (reinforcement) learning based Text Summarization, Question Answering, Dialog Generation, etc. The roadmap can be summarized as: **summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR**. 
+> In this pdf, we briefly review deep (reinforcement) learning based Text Summarization, Question Answering, Dialog Generation, etc. Moreover, we introduce several representative papers. The roadmap can be summarized as: **summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR**. 
 
 > (在这个pdf中，我主要对基于深度强化学习的文本生成技术在当前比较火的Summarization, QA, Dialog等几个领域中应用进行了简单回顾，介绍了我觉得比较好的几篇论文，希望能给读者一些启发。
 整个思维为：summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR.)
 
 > Descriptions for Reading-2:
 
->  We  review **model-free policy gradeint methods** and provide some related matetrials in the pdf. It includes policy gradient method, DQN method, PPO, etc.
+>  We  review **model-free policy gradeint methods and related papers** as well as provide some related matetrials in the pdf. It includes policy gradient method, DQN method, PPO, etc.
 
 > Descriptions for Reading-3:
 
