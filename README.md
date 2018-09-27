@@ -17,8 +17,7 @@
 > Descriptions for Reading-1: 
 
 > In this pdf, I briefly review deep (reinforcement) learning based Text Summarization, Question Answering, Dialog Generation, etc. The roadmap can be summarized as: **summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR**. 
-
->(在这个pdf中，我主要对基于深度强化学习的文本生成技术在当前比较火的Summarization, QA, Dialog等几个领域中应用进行了简单回顾，介绍了我觉得比较好的几篇论文，希望能给读者一些启发。
+(在这个pdf中，我主要对基于深度强化学习的文本生成技术在当前比较火的Summarization, QA, Dialog等几个领域中应用进行了简单回顾，介绍了我觉得比较好的几篇论文，希望能给读者一些启发。
 整个思维为：summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR.)
 
 
