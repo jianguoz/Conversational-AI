@@ -16,7 +16,7 @@
 
 - Jianguo Zhang
 - Time-3: September 28, 2018, Friday, 2:30 - 5:30 PM
-- Reading-3: [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
+- Reading-3: [Conversational AI 1](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) and [Conversational AI 2](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-1-2-COLING18_Tutorial.pdf)
 
 
 > Descriptions for Reading-1: 
