@@ -15,8 +15,10 @@
 - Reading-2: [Model-free Policy Gradient Method](https://github.com/jianguoz/Natural-Language-Generation/blob/master/model-free%20PB%20on%20RL%20.pdf) and [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf)
 
 > Descriptions for Reading-1: 
-> 在这个pdf中，我主要对基于深度强化学习的文本生成技术在当前比较火的Summarization, QA, Dialog等几个领域中应用进行了简单回顾，介绍了我觉得比较好的几篇论文，希望能给读者一些启发。
-整个思维为：summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR.
+> In this pdf, I briefly review deep (reinforcement) learning based Text Summarization, Question Answering, Dialog Generation, etc. The roadmap can be summarized as: **summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR**.
+
+(在这个pdf中，我主要对基于深度强化学习的文本生成技术在当前比较火的Summarization, QA, Dialog等几个领域中应用进行了简单回顾，介绍了我觉得比较好的几篇论文，希望能给读者一些启发。
+整个思维为：summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR.)
 
 
 ## <========================================================>
