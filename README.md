@@ -35,7 +35,7 @@
 Time: September 30, 2018, Sunday, 4:00 - 6:30 PM
 - Reading (Required): [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf) and [Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032.pdf)
 
--Reading (Optional): [No Metrics Are Perfect Adversarial Reward Learning](https://arxiv.org/pdf/1804.09160.pdf)
+- Reading (Optional): [No Metrics Are Perfect Adversarial Reward Learning](https://arxiv.org/pdf/1804.09160.pdf)
 and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
 
