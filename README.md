@@ -18,7 +18,6 @@
 - Time-3: September 28, 2018, Friday, 2:30 - 5:30 PM
 - Reading-3: [Conversational AI 1](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) and [Conversational AI 2](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-1-2-COLING18_Tutorial.pdf)
 
-
 > Descriptions for Reading-1: 
 
 > In this pdf, we briefly review deep (reinforcement) learning based Text Summarization, Question Answering, Dialog Generation, etc. Moreover, we introduce several representative papers. The roadmap can be summarized as: **summarization/caption -> TextQA -> Text Dialog -> VQA -> Video QA -> Visual Dialog -> Conversational IR**. 
@@ -30,6 +29,15 @@
 > Descriptions for Reading-3:
 
 >  We give a tutorial on deep learning for conversational AI. It mainly includes **task-oriented** conversational AI (e.g., Apple SiRi, Microsoft Cortana) and **fully data-driven** convesational AI (e.g., Chit-Chat bot).
+
+### 2. Variational Autoencoder for Dialogue Generation
+
+Time-3: September 30, 2018, Sunday, 4:00 - 6:30 PM
+- Reading: [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues] (https://arxiv.org/pdf/1605.06069.pdf)
+[Improving Variational Encoder-Decoders in Dialogue Generation](https://arxiv.org/pdf/1802.02032.pdf)
+[No Metrics Are Perfect Adversarial Reward Learning)(https://arxiv.org/pdf/1804.09160.pdf)
+[Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
+
 
 
 ## <========================================================>
