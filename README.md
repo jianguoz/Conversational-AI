@@ -42,6 +42,12 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 ## <========================================================>
 
+## ==> Papers
+
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 29, 2018`
+
+[Reading Papers](https://docs.google.com/spreadsheets/d/1hgtXov4NwMeDq6gy7zn5e08IKZk-akREcw0LWL5Kg54/edit#gid=0)
+
 ## ==> Tutorials
 
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 13, 2018`
