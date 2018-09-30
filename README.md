@@ -38,6 +38,13 @@
 - Reading (Optional): [No Metrics Are Perfect Adversarial Reward Learning](https://arxiv.org/pdf/1804.09160.pdf)
 and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
+### 3. VAE +GAN for Dialogue Generation
+
+- Jianguo Zhang
+- Time: Octomber 4, Thursday, 3:30-6:30pm
+- Reading: Week-2, [VAE+GAN](DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder) + Jiwei
+
+
 
 
 ## <========================================================>
@@ -59,7 +66,6 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 [ICML-2019](https://icml.cc/Conferences/2019): TBD
 
 More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
-
 
 ## ==> Papers
 
