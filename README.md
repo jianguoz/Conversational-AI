@@ -42,6 +42,25 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 ## <========================================================>
 
+## ==> Deadlines
+
+[NIPS 2019 Workshops](https://nips.cc/Conferences/2018/Schedule?type=Workshop): Around Octomber 25, 2018
+
+[NAACL-2019](http://naacl2019.org/): Abastract: December 3, 2018, Full paper: December 10, 2018
+
+[CVPR-2019](http://cvpr2019.thecvf.com/): November 16, 2018 (including rebuttal)
+
+[IJCAI-2019](https://ijcai19.org/): February 25, 2019 (including rebuttal)
+
+[ACL-2019](http://www.acl2019.org/EN/index.xhtml): Around February 22, 2019 (including rebuttal)
+
+[KDD-2019](http://www.kdd.org/kdd2019): Around February 1, 2019
+
+[ICML-2019]: TBD
+
+More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
+
+
 ## ==> Papers
 
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 29, 2018`
