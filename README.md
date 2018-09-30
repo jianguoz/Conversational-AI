@@ -54,7 +54,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [ACL-2019](http://www.acl2019.org/EN/index.xhtml): Around February 22, 2019 (including rebuttal)
 
-[KDD-2019](http://www.kdd.org/kdd2019): Around February 1, 2019
+[KDD-2019](http://www.kdd.org/kdd2019): Around February 11, 2019
 
 [ICML-2019]: TBD
 
