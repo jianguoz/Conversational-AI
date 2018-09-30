@@ -46,9 +46,9 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [NIPS 2019 Workshops](https://nips.cc/Conferences/2018/Schedule?type=Workshop): Around Octomber 25, 2018
 
-[NAACL-2019](http://naacl2019.org/): Abastract: December 3, 2018, Full paper: December 10, 2018
-
 [CVPR-2019](http://cvpr2019.thecvf.com/): November 16, 2018 (including rebuttal)
+
+[NAACL-2019](http://naacl2019.org/): Abastract: December 3, 2018, Full paper: December 10, 2018
 
 [IJCAI-2019](https://ijcai19.org/): February 25, 2019 (including rebuttal)
 
