@@ -42,7 +42,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 - Jianguo Zhang
 - Time: Octomber 4, Thursday, 3:30-6:30pm
-- Reading: Week-2, [VAE+GAN](DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder) + Jiwei
+- Reading: Week-2, [VAE+GAN](https://arxiv.org/pdf/1805.12352.pdf) + Jiwei
 
 
 
