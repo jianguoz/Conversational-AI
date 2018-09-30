@@ -42,7 +42,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 - Jianguo Zhang
 - Time: Octomber 4, Thursday, 3:30-6:30pm
-- Reading: Week-2, [VAE+GAN](https://arxiv.org/pdf/1805.12352.pdf) + Jiwei
+- Reading: Review Week-2, [Vae+Gan](https://arxiv.org/pdf/1805.12352.pdf) + [Open-domain dialogue](https://arxiv.org/abs/1603.06155)
 
 
 
