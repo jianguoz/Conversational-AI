@@ -41,7 +41,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 ### 3. VAE +GAN for Dialogue Generation
 
 - Jianguo Zhang
-- Time: Octomber 4, Thursday, 3:30-6:30pm
+- Time: Octomber 4, 2018, Thursday, 3:30-6:30pm
 - Reading: Review Week-2, [Vae+Gan](https://arxiv.org/pdf/1805.12352.pdf) + [Open-domain dialogue](https://arxiv.org/abs/1603.06155)
 
 
