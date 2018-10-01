@@ -75,10 +75,10 @@ More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 13, 2018`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Oct 1, 2018`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
-- [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL 2018`
+- [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
 - [Deep Learning for Dialogue Systems](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-1-2-COLING18_Tutorial.pdf) in `COLING 2018`
 - [Unified View of Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-3-A%20univied%20view%20of%20Deep%20Generative%20models%20.pdf) in `ICML 2018`
 - [DRL for Natural Language Processing](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-4-ACL-2018-DRL4NLP.pdf) in `ACL 2018`
