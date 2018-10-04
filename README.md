@@ -83,6 +83,9 @@ More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 - [Unified View of Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-3-A%20univied%20view%20of%20Deep%20Generative%20models%20.pdf) in `ICML 2018`
 - [DRL for Natural Language Processing](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-4-ACL-2018-DRL4NLP.pdf) in `ACL 2018`
 
+
+###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
+
 ## ==> GAN
 - SeqGAN - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
 - MaliGAN - Maximum-Likelihood Augmented Discrete Generative Adversarial Networks
@@ -115,7 +118,7 @@ More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 > 当expert demonstration比较少的时候很难求reward function。考虑将其它tasks里面的信息作为prior引入进来。
 
 ## ==> Multi-Agent Learning
-###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
+
 - Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
 - Multi-agent cooperation and the emergence of (natural) language
 - (*****)Counterfactual Multi-Agent Policy Gradients (AAAI best paper)
@@ -144,7 +147,7 @@ More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 
 
 ## ==> Visual Dialog
-###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
+
 - (**) Visual Dialog
 > 快速了解VisDialog这个task。
 - (****) Are You Talking to Me-Reasoned Visual Dialog Generation through Adversarial Learning
@@ -164,14 +167,14 @@ More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 > 一个全新的QA场景，有公开数据集和代码。VQA＝Visual understanding + language understanding + answer generation. Embodied Question Answering = Visual understanding + language understanding + navigation + answer generation。
 
 ## ==> Video Question Answering
-###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 14, 2018`.
+
 - Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks.
 - Multi-Turn Video Question Answering via Multi-Stream Hierarchical Attention Context Network.
 > visual做的人很多，video做的人相对少一点。video和visual的区别就在于video是个temporal-spatial的，主要是encoder不同。这两篇论文我可以要到数据集。
 - TVQA-Localized, Compositional Video Question Answering
 
 ## ==> Conversational Information Retrieval
-###  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) ` Yao Wan, updated on Sep. 13, 2018`.
+
 > 个人觉得dialog+information retrieval是一个很重要的应用场景，打破了传统keyword作为query的IR方式，这个在IR领域的影响力应该会很大。近两年sigir也有相关workshop出现，很适合www/sigir/kdd这类会议。（https://sites.google.com/view/cair-ws/cair-2018）
 - Dialog-based Interactive Image Retrieval （NIPS2018）
 > 作者十月会公布代码／数据集
