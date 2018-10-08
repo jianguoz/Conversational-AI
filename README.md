@@ -1,7 +1,7 @@
 ## Natural Language Generation Reading Group.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Sep 29, 2018`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Oct 8, 2018`.
 
 ## Schedule
 
@@ -41,9 +41,12 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 ### 3. VAE +GAN for Dialogue Generation
 
 - Jianguo Zhang
-- Time: Octomber 4, 2018, Thursday, 3:30-6:30pm
-- Reading: Review Week-2, [Vae+Gan](https://arxiv.org/pdf/1805.12352.pdf) + [Open-domain dialogue](https://arxiv.org/abs/1603.06155)
+- Time: October 8, 2018, Monday, 9:00-12:00am
+- Reading: Review Week-2, [Vae+Gan (version 1)](https://github.com/jianguoz/Natural-Language-Generation/blob/master/VAE%2BGAN.pdf) 
 
+> Descriptions for Reading-3:
+
+>  We give a brief introduction for GAN and VAE, and discuss **issues** related to GAN (e.g., training instability, mode collapse) and VAE (e.g., safe response, the posterior collapse problem), as well as **methods** to mitigate these issues.
 
 
 
