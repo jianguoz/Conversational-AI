@@ -48,6 +48,17 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 >  We give a brief introduction for GAN and VAE, and discuss **issues** related to GAN (e.g., training instability, mode collapse) and VAE (e.g., safe response, the posterior collapse problem), as well as **methods** to mitigate these issues.
 
+and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
+
+### 4. Inverse Reinforcement Learning for NLG
+
+- Ye Liu
+- Time: October 11, 2018, Thursday, 4:00-6:30am
+- Reading: [InverseRL for NLG](https://github.com/jianguoz/Natural-Language-Generation/blob/master/VAE%2BGAN.pdf) 
+
+> Descriptions for Reading-4:
+
+>  This is an introduction of Inverse reinforcement learning for natural language generation.
 
 
 ## <========================================================>
