@@ -54,7 +54,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 - Ye Liu
 - Time: October 11, 2018, Thursday, 4:00-6:30am
-- Reading: [InverseRL for NLG](https://github.com/jianguoz/Natural-Language-Generation/blob/master/VAE%2BGAN.pdf) 
+- Reading: [InverseRL for NLG (Part-I)](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Inverse%20Reinforcemen%20Learning.pdf) 
 
 > Descriptions for Reading-4:
 
