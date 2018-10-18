@@ -42,13 +42,12 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 - Jianguo Zhang
 - Time: October 8, 2018, Monday, 9:00-12:00am
-- Reading: Review Week-2, [Vae+Gan (version 1)](https://github.com/jianguoz/Natural-Language-Generation/blob/master/VAE%2BGAN.pdf) 
+- Reading: Review Week-2, [Vae+Gan (version 1)](https://github.com/jianguoz/Natural-Language-Generation/blob/master/VAE%2BGAN.pdf) and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
 > Descriptions for Reading-3:
 
 >  We give a brief introduction for GAN and VAE, and discuss **issues** related to GAN (e.g., training instability, mode collapse) and VAE (e.g., safe response, the posterior collapse problem), as well as **methods** to mitigate these issues.
 
-and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
 ### 4. Inverse Reinforcement Learning for NLG
 
