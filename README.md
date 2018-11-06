@@ -1,7 +1,7 @@
 ## Natural Language Generation Reading Group.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Oct 8, 2018`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Nov 6, 2018`.
 
 ## Schedule
 
