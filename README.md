@@ -64,7 +64,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 ## ==> Deadlines
 
-[NIPS 2018 Workshops](https://nips.cc/Conferences/2018/Schedule?type=Workshop): Around Octomber 25, 2018
+[~~NIPS 2018 Workshops~~](https://nips.cc/Conferences/2018/Schedule?type=Workshop): Around Octomber 25, 2018
 
 [CVPR-2019](http://cvpr2019.thecvf.com/): November 16, 2018 (including rebuttal)
 
