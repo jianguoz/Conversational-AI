@@ -1,5 +1,11 @@
 
 ### Note: I write this Readme file in mixed English and Chinese, If needed, I will add separate English and/or Chinese version. 
+
+## [Difference betweek VQA and Visual dialog](https://github.com/jianguoz/Natural-Language-Generation/blob/master/ICCV-17-Visual%20Dialog.pdf)
+
+Despite rapid progress at the intersection of vision and lan- guage – in particular, in image captioning and visual question answering (VQA) – it is clear that we are far from this grand goal of an AI agent that can ‘see’ and ‘communicate’. In captioning, the human-machine interaction consists of the machine simply talking at the human (‘Two people are in a wheelchair and one is holding a racket’), with no dialog or input from the human. While **VQA** takes a significant step towards human-machine interaction, it still represents `only a single round of a dialog` – unlike in human conversations, there is no scope for follow-up questions, no memory in the system of previous questions asked by the user nor consistency with respect to previous answers provided by the system (Q: ‘How many people on wheelchairs?’, A: ‘Two’; Q: ‘How many wheelchairs?’, A: ‘One’).
+
+
 * A [short summary](https://github.com/jianguoz/Text-Generation/blob/master/0-Short-Summary-GAN-Discrete-Texts.pdf) of GAN for discrete texts
 
 * One [technical blog](https://zhuanlan.zhihu.com/p/33956907) of NLG on Taobao Recommendation gives some instructions on tackling multi-source and noisy data.  
