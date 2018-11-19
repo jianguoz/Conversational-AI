@@ -65,7 +65,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 - Time: November 18, 2018, Sunday, 5:00-7:00pm
 
-- Reading-5: [QA-Advance](https://www.dropbox.com/home/Materials?preview=qa-advances.pptx)
+- Reading-5: [QA-Advanced](https://www.dropbox.com/home/Materials?preview=qa-advances.pptx)
 
 > Descriptions for Reading-5:
 
