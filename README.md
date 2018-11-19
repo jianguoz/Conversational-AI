@@ -1,7 +1,7 @@
 ## Natural Language Generation Reading Group.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Nov 6, 2018`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Nov 18, 2018`.
 
 ## Schedule
 
@@ -59,6 +59,17 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 >  This is an introduction of Inverse reinforcement learning for natural language generation.
 
+### 5. Discussion
+
+- All
+-Time: November 18, 2018, Sunday, 5:00-7:00pm
+-Reading-5: [QA-Advance](https://www.dropbox.com/home/Materials?preview=qa-advances.pptx)
+
+> Descriptions for Reading-5:
+
+>  This is an discussion for some new papers and directions in QA.
+
+
 
 ## <========================================================>
 
@@ -66,7 +77,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [~~NIPS 2018 Workshops~~](https://nips.cc/Conferences/2018/Schedule?type=Workshop): Around Octomber 25, 2018
 
-[CVPR-2019](http://cvpr2019.thecvf.com/): November 16, 2018 (including rebuttal)
+[~~CVPR-2019~~](http://cvpr2019.thecvf.com/): November 16, 2018 (including rebuttal)
 
 [NAACL-2019](http://naacl2019.org/): Abastract: December 3, 2018, Full paper: December 10, 2018
 
