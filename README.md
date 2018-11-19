@@ -62,7 +62,9 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 ### 5. Discussion
 
 - All
+
 -Time: November 18, 2018, Sunday, 5:00-7:00pm
+
 -Reading-5: [QA-Advance](https://www.dropbox.com/home/Materials?preview=qa-advances.pptx)
 
 > Descriptions for Reading-5:
@@ -93,7 +95,7 @@ More can be found at the [website](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 
 ## ==> Papers
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 29, 2018`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Now 18, 2018`
 
 [Reading Papers](https://docs.google.com/spreadsheets/d/1hgtXov4NwMeDq6gy7zn5e08IKZk-akREcw0LWL5Kg54/edit#gid=0)
 
