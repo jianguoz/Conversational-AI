@@ -184,7 +184,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 - Improving Search through A3C Reinforcement Learning based Conversational Agent
 
 ## ==> Video Dialog
-- **New Dataset** Audio-Visual Scene-Aware Dialog
+- **New Dataset:** Audio-Visual Scene-Aware Dialog
 - End-to-End Audio Visual Scene-Aware Dialog using Multimodal Attention-Based Video Features
 - Audio Visual Scene-Aware Dialog (AVSD) Challenge at DSTC7
 - More details on the [webpage](http://video-dialog.com/)
