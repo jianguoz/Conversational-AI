@@ -1,7 +1,7 @@
 ## Natural Language Generation Reading Group.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Nov 18, 2018`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Feb 4, 2019`.
 
 ## Schedule
 
@@ -182,3 +182,9 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 ## ==> Conversational Information Retrieval
 - Dialog-based Interactive Image Retrieval （NIPS2018）
 - Improving Search through A3C Reinforcement Learning based Conversational Agent
+
+## ==> Video Dialog
+- **New Dataset** Audio-Visual Scene-Aware Dialog
+- End-to-End Audio Visual Scene-Aware Dialog using Multimodal Attention-Based Video Features
+- Audio Visual Scene-Aware Dialog (AVSD) Challenge at DSTC7
+- More details on the [webpage](http://video-dialog.com/)
