@@ -93,7 +93,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [EMNLP-2019](https://www.emnlp-ijcnlp2019.org/): May 21, 2019
 
-**More** can be found at the [Conference Deadline](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences.html)
+**More** can be found at the [Conference Deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
 
 ## ==> Papers
 
