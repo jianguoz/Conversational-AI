@@ -83,13 +83,15 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [~~NAACL-2019~~](http://naacl2019.org/): Abastract: December 3, 2018, Full paper: December 10, 2018
 
-[IJCAI-2019](https://ijcai19.org/): February 25, 2019 (including rebuttal)
+[~~KDD-2019~~](http://www.kdd.org/kdd2019): February 3, 2019
 
-[ACL-2019](http://www.acl2019.org/EN/index.xhtml): Around February 22, 2019 (including rebuttal)
+[~~ICML-2019~~](https://icml.cc/Conferences/2019): January, 18 2019
 
-[KDD-2019](http://www.kdd.org/kdd2019): Around February 11, 2019
+[IJCAI-2019](https://ijcai19.org/): February 25, 2019 
 
-[ICML-2019](https://icml.cc/Conferences/2019): TBD
+[ACL-2019](http://www.acl2019.org/EN/index.xhtml): March 4, 2019
+
+[EMNLP-2019](https://www.emnlp-ijcnlp2019.org/): May 21, 2019
 
 **More** can be found at the [Conference Deadline](https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences.html)
 
