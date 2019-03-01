@@ -1,4 +1,4 @@
-## Natural Language Generation Reading Group.
+## Natural Language Processing Reading Group.
 
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Feb 28, 2019`.
