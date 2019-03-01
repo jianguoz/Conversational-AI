@@ -1,7 +1,7 @@
 ## Natural Language Generation Reading Group.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Feb 4, 2019`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Feb 28, 2019`.
 
 ## Schedule
 
@@ -103,7 +103,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Nov 6, 2018`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Feb 28, 2019`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
@@ -111,7 +111,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 - [Unified View of Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-3-A%20univied%20view%20of%20Deep%20Generative%20models%20.pdf) in `ICML 2018`
 - [DRL for Natural Language Processing](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-4-ACL-2018-DRL4NLP.pdf) in `ACL 2018`
 - [Deep+Learning+for+ChatBots](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-5-EMNLP-18-%2BDeep%2BChit-Chat%2BDeep%2BLearning%2Bfor%2BChatBots.pdf) in `EMNLP 2018`
-
+- [Transfer Learning for NLP](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-6-Neural%2BTransfer%2BLearning%2Bfor%2BNatural%2BLanguage%2BProcessing.pdf) release by Sebastian Ruder on Feb 26, 2019
 
 ####  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Updated on Sep. 13, 2018`.
 
