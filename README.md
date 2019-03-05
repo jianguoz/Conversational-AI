@@ -87,9 +87,9 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [~~ICML-2019~~](https://icml.cc/Conferences/2019): January, 18 2019
 
-[IJCAI-2019](https://ijcai19.org/): February 25, 2019 
+[~~IJCAI-2019~~](https://ijcai19.org/): February 25, 2019 
 
-[ACL-2019](http://www.acl2019.org/EN/index.xhtml): March 4, 2019
+[~~ACL-2019~~](http://www.acl2019.org/EN/index.xhtml): March 4, 2019
 
 [EMNLP-2019](https://www.emnlp-ijcnlp2019.org/): May 21, 2019
 
