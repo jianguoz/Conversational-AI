@@ -7,14 +7,11 @@
 
 ### 1. Conversational AI Tutorial Review and Reinforcement Learning Review
 
-- Yao Wan
 - Time-1: September 19, 2018, Wednesday, 4:00 - 10:30 PM
 - Reading-1: [Natural Language Generation: A Review](https://github.com/jianguoz/Natural-Language-Generation/blob/master/qa-review-09.20-wanyao-upload.pdf) 
-- Ye Liu
 - Time-2: September 25, 2018, Tuesday, 2:30 - 5:00 PM
 - Reading-2: [Model-free Policy Gradient Method](https://github.com/jianguoz/Natural-Language-Generation/blob/master/model-free%20PB%20on%20RL%20.pdf) 
 
-- Jianguo Zhang
 - Time-3: September 28, 2018, Friday, 2:30 - 5:30 PM
 - Reading-3: [Conversational AI 1](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) and [Conversational AI 2](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-1-2-COLING18_Tutorial.pdf)
 
@@ -39,8 +36,6 @@
 and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
 ### 3. VAE +GAN for Dialogue Generation
-
-- Jianguo Zhang
 - Time: October 8, 2018, Monday, 9:00-12:00am
 - Reading: Review Week-2, [Vae+Gan (version 1)](https://github.com/jianguoz/Natural-Language-Generation/blob/master/VAE%2BGAN.pdf) and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/pdf/1805.00909.pdf)
 
@@ -50,8 +45,6 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 
 ### 4. Inverse Reinforcement Learning for NLG
-
-- Ye Liu
 - Time: October 11, 2018, Thursday, 4:00-6:30am
 - Reading: [InverseRL for NLG (Part-I)](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Inverse%20Reinforcemen%20Learning.pdf) 
 
@@ -61,8 +54,6 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 ### 5. Discussion
 
-- All
-
 - Time: November 18, 2018, Sunday, 5:00-7:00pm
 
 - Reading-5: [QA-Advanced](https://www.dropbox.com/home/Materials?preview=qa-advances.pptx)
@@ -71,6 +62,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 >  This is an discussion for some new papers and directions in QA.
 
+### 5. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we don't update schedule for this semester.
 
 
 ## <========================================================>
