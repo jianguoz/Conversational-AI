@@ -1,7 +1,7 @@
-## Natural Language Processing Reading Materials.
+## Natural Language Processing Reading Group/Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Feb 28, 2019`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Mar 11, 2019`.
 
 ## Schedule
 
@@ -106,8 +106,12 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 - [Transfer Learning for NLP](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-6-Neural%2BTransfer%2BLearning%2Bfor%2BNatural%2BLanguage%2BProcessing.pdf) released by Sebastian Ruder on Feb 26, 2019
 
 ## ==> Books
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Mar 11, 2019`
+
 - [The Study of Language](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-1-The%2BStudy%2Bof%2BLanguage.pdf)
 - [Semantics Third Edition](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-2-Semantics%203rd%20Edition%20(John%20Saeed%20).pdf)
+- [Reinforcement Learning for Adaptive Dialogue Systems](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-3-Reinforcement%20Learning%20for%20Adaptive%20Dialogue%20Systems.pdf)
+
 
 ####  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Updated on Sep. 13, 2018`.
 
