@@ -62,7 +62,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 >  This is an discussion for some new papers and directions in QA.
 
-### 5. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we don't update schedule for this semester.
+### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update schedule for this semester.
 
 
 ## <========================================================>
