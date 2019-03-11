@@ -105,6 +105,10 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 - [Deep+Learning+for+ChatBots](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-5-EMNLP-18-%2BDeep%2BChit-Chat%2BDeep%2BLearning%2Bfor%2BChatBots.pdf) in `EMNLP 2018`
 - [Transfer Learning for NLP](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-6-Neural%2BTransfer%2BLearning%2Bfor%2BNatural%2BLanguage%2BProcessing.pdf) released by Sebastian Ruder on Feb 26, 2019
 
+## ==> Books
+- [The Study of Language](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-1-The%2BStudy%2Bof%2BLanguage.pdf)
+- [Semantics Third Edition](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-2-Semantics%203rd%20Edition%20(John%20Saeed%20).pdf)
+
 ####  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Updated on Sep. 13, 2018`.
 
 ## ==> GAN
