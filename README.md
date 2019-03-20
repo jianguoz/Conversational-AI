@@ -104,7 +104,7 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 - [DRL for Natural Language Processing](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-4-ACL-2018-DRL4NLP.pdf) in `ACL 2018`
 - [Deep+Learning+for+ChatBots](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-5-EMNLP-18-%2BDeep%2BChit-Chat%2BDeep%2BLearning%2Bfor%2BChatBots.pdf) in `EMNLP 2018`
 - [Transfer Learning for NLP](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-6-Neural%2BTransfer%2BLearning%2Bfor%2BNatural%2BLanguage%2BProcessing.pdf) released by Sebastian Ruder on Feb 26, 2019
--[Zero-shot Learning for CV](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2017/) on CVPR 2017
+- [Zero-shot Learning for CV](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2017/) on CVPR 2017
 
 ## ==> Books
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Mar 11, 2019`
