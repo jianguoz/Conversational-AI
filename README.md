@@ -100,15 +100,9 @@ and [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and
 
 [~~ACL-2019~~](http://www.acl2019.org/EN/index.xhtml): March 4, 2019
 
-[EMNLP-2019](https://www.emnlp-ijcnlp2019.org/): May 21, 2019
+[~~EMNLP-2019~~](https://www.emnlp-ijcnlp2019.org/): May 21, 2019
 
 **More** can be found at the [Conference Deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP)
-
-## ==> Papers
-
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Now 18, 2018`
-
-[Reading Papers](https://docs.google.com/spreadsheets/d/1hgtXov4NwMeDq6gy7zn5e08IKZk-akREcw0LWL5Kg54/edit#gid=0)
 
 
 ## ==> Books
