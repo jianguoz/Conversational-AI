@@ -25,7 +25,7 @@
 ### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update schedule for this semester.
 
 
-## <========================================================>
+## <=====================================================>
 
 ## ==> Deadlines
 
