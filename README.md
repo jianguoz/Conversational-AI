@@ -24,7 +24,7 @@
 
 
 
-### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update schedule for this semester.
+### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update [schedules](https://github.com/jianguoz/Natural-Language-Processing/blob/master/misc/readme.md) for this semester.
 
 
 ## <=====================================================>
