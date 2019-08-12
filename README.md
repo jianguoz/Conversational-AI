@@ -1,13 +1,13 @@
 ## Natural Language Processing Reading Group/Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on June 2, 2019`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on August 12, 2019`.
 
 
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on June 2, 2019`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on August 12, 2019`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
@@ -16,11 +16,11 @@
 - [DRL for Natural Language Processing](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-4-ACL-2018-DRL4NLP.pdf) in `ACL 2018`
 - [Deep+Learning+for+ChatBots](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-5-EMNLP-18-%2BDeep%2BChit-Chat%2BDeep%2BLearning%2Bfor%2BChatBots.pdf) in `EMNLP 2018`
 - [Transfer Learning for NLP](https://github.com/jianguoz/Natural-Language-Generation/blob/master/Tutorial-6-Neural%2BTransfer%2BLearning%2Bfor%2BNatural%2BLanguage%2BProcessing.pdf) released by Sebastian Ruder on Feb 26, 2019
-- [Zero-shot Learning for CV](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2017/) on CVPR 2017
+- [Zero-shot Learning for CV](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2017/) IN CVPR 2017
 - [Deep Adversarial Learning for NLP](https://drive.google.com/drive/folders/1E4uHe4_TD4yDJws3t1kXJQanUFJiqpBB) on NAACL, June 2, 2019
-- [Transfer Learning in NLP](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/preview?pru=AAABaz2o8Jk*rdDLH7fXP7h4HQFLtzvHNQ&slide=id.g5a8fba10ed_1_192) on NAACL, June 2, 2019
+- [Transfer Learning in NLP](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/preview?pru=AAABaz2o8Jk*rdDLH7fXP7h4HQFLtzvHNQ&slide=id.g5a8fba10ed_1_192) in NAACL, June 2, 2019
 - [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), a recent survey for dialog systems
-- [The Bright Future of ACL/NLP](https://github.com/jianguoz/Natural-Language-Processing/blob/master/ACL-2019-The%20Bright%20Future%20of%20ACL:NLP.pdf) in `ACL 2019`.
+- [The Bright Future of ACL/NLP](https://github.com/jianguoz/Natural-Language-Processing/blob/master/ACL-2019-The%20Bright%20Future%20of%20ACL:NLP.pdf) in ACL, July 2019.
 
 
 
