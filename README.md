@@ -19,6 +19,7 @@
 - [Zero-shot Learning for CV](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2017/) on CVPR 2017
 - [Deep Adversarial Learning for NLP](https://drive.google.com/drive/folders/1E4uHe4_TD4yDJws3t1kXJQanUFJiqpBB) on NAACL, June 2, 2019
 - [Transfer Learning in NLP](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/preview?pru=AAABaz2o8Jk*rdDLH7fXP7h4HQFLtzvHNQ&slide=id.g5a8fba10ed_1_192) on NAACL, June 2, 2019
+- [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), a recent survey for dialog systems
 
 
 
