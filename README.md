@@ -7,7 +7,7 @@
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on August 12, 2019`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 9, 2019`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
@@ -21,6 +21,7 @@
 - [Transfer Learning in NLP](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/preview?pru=AAABaz2o8Jk*rdDLH7fXP7h4HQFLtzvHNQ&slide=id.g5a8fba10ed_1_192) in NAACL, June 2, 2019
 - [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), a recent survey for dialog systems
 - [The Bright Future of ACL/NLP](https://github.com/jianguoz/Natural-Language-Processing/blob/master/ACL-2019-The%20Bright%20Future%20of%20ACL:NLP.pdf) in ACL, July 2019.
+- [Building Dialog System With Less Supervision](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Tutorial-8-Building%20Dialog%20Systems%20with%20%20Less%20Supervision.pdf) in West Coast NLP workshop, Sep 7, 2019
 
 
 
