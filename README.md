@@ -1,13 +1,13 @@
 ## Natural Language Processing Reading Group/Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on August 12, 2019`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on October 30, 2019`.
 
 
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Sep 9, 2019`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Oct 30, 2019`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
@@ -22,6 +22,7 @@
 - [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf), a recent survey for dialog systems
 - [The Bright Future of ACL/NLP](https://github.com/jianguoz/Natural-Language-Processing/blob/master/ACL-2019-The%20Bright%20Future%20of%20ACL:NLP.pdf) in ACL, July 2019.
 - [Building Dialog System With Less Supervision](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Tutorial-8-Building%20Dialog%20Systems%20with%20%20Less%20Supervision.pdf) in West Coast NLP workshop, Sep 7, 2019
+- [Knowledge-Aware Natural Language Understanding](http://www.cs.cmu.edu/~pdasigi/assets/pdf/pdasigi_thesis.pdf), the PhD thesis of Pradeep Dasigi in CMU, 2019.
 
 
 
