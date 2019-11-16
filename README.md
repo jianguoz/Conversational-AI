@@ -1,7 +1,7 @@
-## Natural Language Processing Reading Group/Materials.
+## Natural Language Processing Reading Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on October 30, 2019`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Nov 15, 2019`.
 
 
 
@@ -23,7 +23,7 @@
 - [The Bright Future of ACL/NLP](https://github.com/jianguoz/Natural-Language-Processing/blob/master/ACL-2019-The%20Bright%20Future%20of%20ACL:NLP.pdf) in ACL, July 2019.
 - [Building Dialog System With Less Supervision](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Tutorial-8-Building%20Dialog%20Systems%20with%20%20Less%20Supervision.pdf) in West Coast NLP workshop, Sep 7, 2019
 - [Knowledge-Aware Natural Language Understanding](http://www.cs.cmu.edu/~pdasigi/assets/pdf/pdasigi_thesis.pdf), the PhD thesis of Pradeep Dasigi in CMU, 2019.
-
+- [Towards scalable multi-domain conversational agents](https://scai.info/ijcai2019/slides/IJCAI2019_Zang.pdf) in the 4th International Workshop on Search-Oriented Conversational AI.
 
 
 ### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update [schedules](https://github.com/jianguoz/Natural-Language-Processing/blob/master/misc/readme.md) for this semester.
