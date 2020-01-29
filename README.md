@@ -1,7 +1,7 @@
 ## Conversational AI Reading Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Nov 15, 2019`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Jan 28, 2020`.
 
 
 
@@ -53,12 +53,12 @@
 
 
 ## ==> Books
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Mar 11, 2019`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Jan 28, 2020`
 
 - [The Study of Language](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-1-The%2BStudy%2Bof%2BLanguage.pdf)
 - [Semantics Third Edition](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-2-Semantics%203rd%20Edition%20(John%20Saeed%20).pdf)
 - [Reinforcement Learning for Adaptive Dialogue Systems](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-3-Reinforcement%20Learning%20for%20Adaptive%20Dialogue%20Systems.pdf)
-
+- [Neural Network Methods in Natural Language Processing](https://github.com/jianguoz/Conversational-AI/blob/master/Book-4-Neural%20Network%20Methods%20in%20Natural%20Language%20Processing-Morgan%20%26%20Claypool%20Publishers%20(2017)%20-%20Yoav%20Goldberg%2C%20Graeme%20Hirst.pdf)
 
 ####  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Updated on Sep. 13, 2018`.
 
