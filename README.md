@@ -25,6 +25,7 @@
 - [Knowledge-Aware Natural Language Understanding](http://www.cs.cmu.edu/~pdasigi/assets/pdf/pdasigi_thesis.pdf), the PhD thesis of Pradeep Dasigi in CMU, 2019.
 - [Towards scalable multi-domain conversational agents](https://scai.info/ijcai2019/slides/IJCAI2019_Zang.pdf) in the 4th International Workshop on Search-Oriented Conversational AI.
 
+- [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
 ### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update [schedules](https://github.com/jianguoz/Natural-Language-Processing/blob/master/misc/readme.md) for this semester.
 
