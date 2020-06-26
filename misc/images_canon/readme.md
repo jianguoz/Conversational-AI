@@ -3,3 +3,4 @@
 ![image2](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/_DSC0354-5.jpg)
 ![image4](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/_DSC0469.jpg)
 ![image5](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/_DSC0523-2.jpg)
+![image6](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/IMG20.jpg)
