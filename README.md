@@ -61,6 +61,12 @@
 - [Reinforcement Learning for Adaptive Dialogue Systems](https://github.com/jianguoz/Natural-Language-Processing/blob/master/Book-3-Reinforcement%20Learning%20for%20Adaptive%20Dialogue%20Systems.pdf)
 - [Neural Network Methods in Natural Language Processing](https://github.com/jianguoz/Conversational-AI/blob/master/Book-4-Neural%20Network%20Methods%20in%20Natural%20Language%20Processing-Morgan%20%26%20Claypool%20Publishers%20(2017)%20-%20Yoav%20Goldberg%2C%20Graeme%20Hirst.pdf)
 
+## ==> Datasets
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on July 23, 2020`
+- [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116),[mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
+
+
+
 ####  ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Updated on Sep. 13, 2018`.
 
 ## ==> GAN
