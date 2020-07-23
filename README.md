@@ -63,7 +63,7 @@
 
 ## ==> Datasets
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on July 23, 2020`
-- [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116),[mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
+- [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
 
 
 
