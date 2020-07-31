@@ -28,9 +28,6 @@
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
 
-
-## <=====================================================>
-
 ## ==> Deadlines
 
 [~~NIPS 2018 Workshops~~](https://nips.cc/Conferences/2018/Schedule?type=Workshop): Around Octomber 25, 2018
@@ -62,7 +59,7 @@
 
 ## ==> Datasets
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on July 23, 2020`
-- [Cross-lingual intent detection and slot tagging dataset](Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf), [Cross-lingual dialog state tracking dataset](https://github.com/ConvLab/ConvLab-2). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
+- [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf), [Cross-lingual dialog state tracking dataset](https://github.com/ConvLab/ConvLab-2). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
 
 
 
