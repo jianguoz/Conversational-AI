@@ -1,7 +1,7 @@
 ## Conversational AI Reading Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Jan 28, 2020`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on July 31, 2020`.
 
 
 
@@ -27,7 +27,6 @@
 
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
-### 6. ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) Due to internship, we won't update [schedules](https://github.com/jianguoz/Natural-Language-Processing/blob/master/misc/readme.md) for this semester.
 
 
 ## <=====================================================>
@@ -63,7 +62,7 @@
 
 ## ==> Datasets
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on July 23, 2020`
-- [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
+- [Cross-lingual intent detection and slot tagging dataset](Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf), [Cross-lingual dialog state tracking dataset](https://github.com/ConvLab/ConvLab-2). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
 
 
 
