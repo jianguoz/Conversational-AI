@@ -58,8 +58,10 @@
 - [Neural Network Methods in Natural Language Processing](https://github.com/jianguoz/Conversational-AI/blob/master/Book-4-Neural%20Network%20Methods%20in%20Natural%20Language%20Processing-Morgan%20%26%20Claypool%20Publishers%20(2017)%20-%20Yoav%20Goldberg%2C%20Graeme%20Hirst.pdf)
 
 ## ==> Datasets
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on July 23, 2020`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Aug 17, 2020`
 - [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf), [Cross-lingual dialog state tracking dataset](https://github.com/ConvLab/ConvLab-2). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
+
+- [BANKING77](https://arxiv.org/pdf/2003.04807.pdf): A single domain intent dataset with 77 intents; [CLINC150](https://github.com/clinc/oos-eval): A dataset with 15 domains and 150 intents in total, and this data is mainly designed for Out-of-Scope (OOS) predictions. 
 
 
 
