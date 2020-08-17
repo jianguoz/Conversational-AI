@@ -59,7 +59,13 @@
 
 ## ==> Datasets
 #### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Aug 17, 2020`
+
+
+**Multilingual:**
+
 - [Cross-lingual dataset for intent and slot detection](https://arxiv.org/pdf/1810.13327.pdf), [Cross-lingual dialog state tracking dataset](https://github.com/ConvLab/ConvLab-2). Papers: [XLM](https://arxiv.org/abs/1901.07291), [XLM-R](https://arxiv.org/abs/1911.02116), [mBert](https://github.com/google-research/bert/blob/master/multilingual.md), [mBart](https://arxiv.org/abs/2001.08210)
+
+**Intent Detection:**
 
 - [BANKING77](https://arxiv.org/pdf/2003.04807.pdf): A single domain intent dataset with 77 intents; [CLINC150](https://github.com/clinc/oos-eval): A dataset with 15 domains and 150 intents in total, and this data is mainly designed for Out-of-Scope (OOS) predictions. 
 
