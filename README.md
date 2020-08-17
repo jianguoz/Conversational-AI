@@ -67,7 +67,7 @@
 
 **Intent Detection:**
 
-- [BANKING77](https://arxiv.org/pdf/2003.04807.pdf): A single domain intent dataset with 77 intents; [CLINC150](https://github.com/clinc/oos-eval): A dataset with 15 domains and 150 intents in total, and this data is mainly designed for Out-of-Scope (OOS) predictions. 
+- [BANKING77](https://arxiv.org/pdf/2003.04807.pdf): A single domain intent dataset with 77 intents; [CLINC150](https://github.com/clinc/oos-eval): A dataset with 15 domains and 150 intents in total, and this dataset is mainly designed for Out-of-Scope (OOS) predictions. 
 
 
 
