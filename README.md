@@ -1,13 +1,13 @@
 ## Conversational AI Reading Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on July 31, 2020`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Dec 13, 2020`.
 
 
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Oct 30, 2019`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Dec 13, 2020`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
@@ -26,6 +26,7 @@
 - [Towards scalable multi-domain conversational agents](https://scai.info/ijcai2019/slides/IJCAI2019_Zang.pdf) in the 4th International Workshop on Search-Oriented Conversational AI.
 
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
+- [Deeper Conversational AI](https://github.com/jianguoz/Conversational-AI/blob/master/Tutorial-9-NeurIPS-20-Deeper-Conversational-AI.pdf) in NeurIPS, Dec 10, 2020
 
 
 ## ==> Deadlines
