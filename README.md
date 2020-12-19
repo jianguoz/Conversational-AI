@@ -1,13 +1,13 @@
 ## Conversational AI Reading Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Dec 13, 2020`.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Dec 18, 2020`.
 
 
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Dec 13, 2020`
+#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Dec 18, 2020`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
@@ -27,6 +27,8 @@
 
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 - [Deeper Conversational AI](https://github.com/jianguoz/Conversational-AI/blob/master/Tutorial-9-NeurIPS-20-Deeper-Conversational-AI.pdf) in NeurIPS, Dec 10, 2020
+- [Interactive Learning for Conversational Understanding](https://nlp.stanford.edu/seminar/details/gokhantur.pdf) by Gokhan Tur from Amazon Alexa AI, 2020 (Stanford NLP Seminar)
+- [GPT-3-Few-Shot Learning with a Giant Language Model](https://nlp.stanford.edu/seminar/details/melaniesubbiah.pdf) by Melanie Subbiah from OpenAI, 2020 (Stanford NLP Seminar)
 
 
 ## ==> Deadlines
