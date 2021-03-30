@@ -1,5 +1,8 @@
 Ins: https://www.instagram.com/feiyuedaxiyang/
 
+### A Bridge in Chicago on Mar 2021
+![image11](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/IMG_2600.jpeg)
+
 ### Joshua Tree National Park and Salvation Mountain on Jun 2020
 ![image3](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/1.jpg)
 ![image1](https://github.com/jianguoz/Conversational-AI/blob/master/misc/images_canon/2.jpg)
