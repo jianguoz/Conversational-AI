@@ -1,13 +1,13 @@
 ## Conversational AI Reading Materials.
 
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  `Updated on Dec 18, 2020`.
-
+### ❤️  `Updated on May 11, 2022`.
+Check [BiWeekly-Research-Paper-Series](https://github.com/jianguoz/BiWeekly-Research-Paper-Series) for update-to-date papers.
 
 
 ## ==> Tutorials
 
-#### ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Updated on Dec 18, 2020`
+#### ❤️ `Updated on Dec 18, 2020`
 
 - [Deep Generative Models](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-2-ijcai_ecai_tutorial_deep%20generative%20model%20_copy.pdf) in `IJCAL 2018`
 - [Conversational AI](https://github.com/jianguoz/Text-Generation/blob/master/Tutorial-1-Conversational%2BAI.pdf) in `ACL、SIGIR 2018`
