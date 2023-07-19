@@ -1,5 +1,6 @@
 ## Conversational AI Reading Materials.
 
+### ‼️ 07/18/2023: Check our latest updates on DialogStudio, a meticulously curated collection of dialogue datasets. These datasets are unified under a consistent format while retaining their original information. We incorporate domain-aware prompts and identify dataset licenses, making DialogStudio an exceptionally rich and diverse resource for dialogue research and model training.
 
 ### ❤️  `Updated on May 11, 2022`.
 Check [BiWeekly-Research-Paper-Series](https://github.com/jianguoz/BiWeekly-Research-Paper-Series) for update-to-date papers.
