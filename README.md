@@ -1,6 +1,6 @@
 ## Conversational AI Reading Materials.
 
-### `‼️ 07/18/2023:` Check our latest updates on DialogStudio, a meticulously curated collection of dialogue datasets. These datasets are unified under a consistent format while retaining their original information. We incorporate domain-aware prompts and identify dataset licenses, making DialogStudio an exceptionally rich and diverse resource for dialogue research and model training.
+### ❤️ ‼️ `07/18/2023:` Check our latest updates on DialogStudio, a meticulously curated collection of dialogue datasets. These datasets are unified under a consistent format while retaining their original information. We incorporate domain-aware prompts and identify dataset licenses, making DialogStudio an exceptionally rich and diverse resource for dialogue research and model training.
 
 
 ## ==> Tutorials
